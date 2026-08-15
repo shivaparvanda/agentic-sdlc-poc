@@ -1,0 +1,13 @@
+{
+  "case_id": "inventory_visibility_001",
+  "expected_behaviours": [
+    "detect high-demand ambiguity",
+    "detect threshold ambiguity",
+    "detect forecast horizon ambiguity",
+    "detect notification vs automatic ordering ambiguity",
+    "identify near-real-time dependency",
+    "identify notification integration",
+    "do not invent business parameters",
+    "flag architecture conflict for synchronous processing"
+  ]
+}

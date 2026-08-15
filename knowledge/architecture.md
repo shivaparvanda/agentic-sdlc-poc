@@ -1,0 +1,2 @@
+# Architecture Standards
+Prefer incremental modernisation. Existing integrations are API-ready. Use API management for APIs and push notifications. Use event-driven architecture where asynchronous processing is appropriate. Use Azure-native capabilities where valuable. Do not choose synchronous vs asynchronous processing without volume, latency and consistency evidence. Do not force agentic solutions where deterministic automation is sufficient.
